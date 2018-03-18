@@ -1,0 +1,7 @@
+#Wed Feb 07 18:59:30 IST 2018
+base.0=C\:\\Users\\Ayush Goyal\\AndroidStudioProjects\\GalleryApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5030297ee7b37ba6c9dc96ae7b2c3597a70a6c87
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Ayush Goyal\\AndroidStudioProjects\\GalleryApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7fd02fb88440a40c835f271a12f710e951a260f9\\classes.dex
+base.1=C\:\\Users\\Ayush Goyal\\AndroidStudioProjects\\GalleryApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7fd02fb88440a40c835f271a12f710e951a260f9
+file.0=C\:\\Users\\Ayush Goyal\\AndroidStudioProjects\\GalleryApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5030297ee7b37ba6c9dc96ae7b2c3597a70a6c87\\classes.dex

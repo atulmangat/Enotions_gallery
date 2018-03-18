@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Mar 11 17:14:43 IST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\android apps\\GalleryApp-20180308T122637Z-001\\GalleryApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\95
+0.path=classes.dex
+0.set=DEX
+count=1

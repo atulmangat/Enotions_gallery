@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.jsibbold:zoomage:1.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\zoomage-1.1.0.aar\93ca97e1feb6427ef9d858980005cda2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\dcda59a8f7653c79cf2658dde5726974\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\53f5a25dad210371b4d1daad8fa209d8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af91943698fa7d8702c53db4b51c499\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\2e3bbaef8c6844f35b8d4904933927c3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\49d8078a26cf5c182b22cf1f68d7d278\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4dfb211f92c7d4166cc889d76c19ed0d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\725c595eb6eb41379a4b291fe227029d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89733b552d011820555727367c8ee1a4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5db8fd7e7550647d5b68fb1ab6ba0b30\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\14d87c8648c7c4879d6a05ed74e2eceb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\981f2245fcb720bdf007cf3977aca101\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9bf572fb1d3d47c037faffa107705a8c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4e7a699707c57ac1cb76546e1ab9c594\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d485b4e4e586c3ba6037ebb5892926b\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\27c76e3e69024c0c1958f71cbac5d65d\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.IMAGE_CAPTURE
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:5:22-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:10:5-33:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\dcda59a8f7653c79cf2658dde5726974\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\dcda59a8f7653c79cf2658dde5726974\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\53f5a25dad210371b4d1daad8fa209d8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\53f5a25dad210371b4d1daad8fa209d8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af91943698fa7d8702c53db4b51c499\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af91943698fa7d8702c53db4b51c499\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\2e3bbaef8c6844f35b8d4904933927c3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\2e3bbaef8c6844f35b8d4904933927c3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\49d8078a26cf5c182b22cf1f68d7d278\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\49d8078a26cf5c182b22cf1f68d7d278\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4dfb211f92c7d4166cc889d76c19ed0d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4dfb211f92c7d4166cc889d76c19ed0d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\725c595eb6eb41379a4b291fe227029d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\725c595eb6eb41379a4b291fe227029d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89733b552d011820555727367c8ee1a4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89733b552d011820555727367c8ee1a4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5db8fd7e7550647d5b68fb1ab6ba0b30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5db8fd7e7550647d5b68fb1ab6ba0b30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\14d87c8648c7c4879d6a05ed74e2eceb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\14d87c8648c7c4879d6a05ed74e2eceb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\981f2245fcb720bdf007cf3977aca101\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\981f2245fcb720bdf007cf3977aca101\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9bf572fb1d3d47c037faffa107705a8c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9bf572fb1d3d47c037faffa107705a8c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4e7a699707c57ac1cb76546e1ab9c594\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4e7a699707c57ac1cb76546e1ab9c594\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d485b4e4e586c3ba6037ebb5892926b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d485b4e4e586c3ba6037ebb5892926b\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\27c76e3e69024c0c1958f71cbac5d65d\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\27c76e3e69024c0c1958f71cbac5d65d\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:12:9-39
+	android:allowBackup
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.emotionapi.galleryapp.MainActivity
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:configChanges
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:18:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.emotionapi.galleryapp.AlbumActivity
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:26:9-28:62
+	android:configChanges
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:27:13-67
+activity#com.emotionapi.galleryapp.GalleryPreview
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:29:9-31:62
+	android:configChanges
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:31:13-59
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:30:13-68
+activity#com.emotionapi.galleryapp.ApiActivity
+ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:32:9-151
+	android:parentActivityName
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:32:72-139
+	android:name
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml:32:19-71
+uses-sdk
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+MERGED from [com.jsibbold:zoomage:1.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\zoomage-1.1.0.aar\93ca97e1feb6427ef9d858980005cda2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jsibbold:zoomage:1.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\zoomage-1.1.0.aar\93ca97e1feb6427ef9d858980005cda2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\dcda59a8f7653c79cf2658dde5726974\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\dcda59a8f7653c79cf2658dde5726974\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\53f5a25dad210371b4d1daad8fa209d8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\53f5a25dad210371b4d1daad8fa209d8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af91943698fa7d8702c53db4b51c499\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4af91943698fa7d8702c53db4b51c499\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\2e3bbaef8c6844f35b8d4904933927c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\2e3bbaef8c6844f35b8d4904933927c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\49d8078a26cf5c182b22cf1f68d7d278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\49d8078a26cf5c182b22cf1f68d7d278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4dfb211f92c7d4166cc889d76c19ed0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4dfb211f92c7d4166cc889d76c19ed0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\725c595eb6eb41379a4b291fe227029d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\725c595eb6eb41379a4b291fe227029d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89733b552d011820555727367c8ee1a4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89733b552d011820555727367c8ee1a4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5db8fd7e7550647d5b68fb1ab6ba0b30\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5db8fd7e7550647d5b68fb1ab6ba0b30\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\14d87c8648c7c4879d6a05ed74e2eceb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\14d87c8648c7c4879d6a05ed74e2eceb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\981f2245fcb720bdf007cf3977aca101\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\981f2245fcb720bdf007cf3977aca101\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9bf572fb1d3d47c037faffa107705a8c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9bf572fb1d3d47c037faffa107705a8c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4e7a699707c57ac1cb76546e1ab9c594\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4e7a699707c57ac1cb76546e1ab9c594\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d485b4e4e586c3ba6037ebb5892926b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d485b4e4e586c3ba6037ebb5892926b\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\27c76e3e69024c0c1958f71cbac5d65d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\27c76e3e69024c0c1958f71cbac5d65d\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\dcda59a8f7653c79cf2658dde5726974\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android apps\GalleryApp-20180308T122637Z-001\GalleryApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\dcda59a8f7653c79cf2658dde5726974\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\53f5a25dad210371b4d1daad8fa209d8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\53f5a25dad210371b4d1daad8fa209d8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\2e3bbaef8c6844f35b8d4904933927c3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\2e3bbaef8c6844f35b8d4904933927c3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\49d8078a26cf5c182b22cf1f68d7d278\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\49d8078a26cf5c182b22cf1f68d7d278\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4dfb211f92c7d4166cc889d76c19ed0d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\4dfb211f92c7d4166cc889d76c19ed0d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\725c595eb6eb41379a4b291fe227029d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\725c595eb6eb41379a4b291fe227029d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89733b552d011820555727367c8ee1a4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\89733b552d011820555727367c8ee1a4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5db8fd7e7550647d5b68fb1ab6ba0b30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5db8fd7e7550647d5b68fb1ab6ba0b30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\14d87c8648c7c4879d6a05ed74e2eceb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\14d87c8648c7c4879d6a05ed74e2eceb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\981f2245fcb720bdf007cf3977aca101\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\981f2245fcb720bdf007cf3977aca101\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9bf572fb1d3d47c037faffa107705a8c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9bf572fb1d3d47c037faffa107705a8c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4e7a699707c57ac1cb76546e1ab9c594\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\4e7a699707c57ac1cb76546e1ab9c594\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d485b4e4e586c3ba6037ebb5892926b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3d485b4e4e586c3ba6037ebb5892926b\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\dcda59a8f7653c79cf2658dde5726974\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\dcda59a8f7653c79cf2658dde5726974\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\27c76e3e69024c0c1958f71cbac5d65d\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\27c76e3e69024c0c1958f71cbac5d65d\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\atulk\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\27c76e3e69024c0c1958f71cbac5d65d\AndroidManifest.xml:26:13-58

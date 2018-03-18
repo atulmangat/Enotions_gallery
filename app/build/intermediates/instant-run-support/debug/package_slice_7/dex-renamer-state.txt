@@ -1,0 +1,4 @@
+#Thu Mar 08 18:20:26 IST 2018
+base.0=D\:\\android apps\\GalleryApp-20180308T122637Z-001\\GalleryApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\84
+path.0=classes.dex
+renamed.0=classes.dex
