@@ -1,4 +1,4 @@
-# Emotions_gallery
+# Emotions Gallery
 --------------------------------------------------------------------------------------------------------------------------------
 This Android App (Emotions Gallery) analyses the emotions of the person in the captured or selected image (Image is analyzed using the Azure Emotion API)
 and saves the image in the specified folder based on the emotions analyzed by the app.
