@@ -10,7 +10,6 @@ The Gallery_activity has a floating button on the bottom that is used to Add_Ima
 
 In the Add_Image activity, first, click on 'Get Image' to grant permission to access phone gallery and camera.
 
-To save an analyzed image in Add_activity, click on the floating button on the bottom of the Activity
-this will add the images to the emotion folder (Happy, Sad, Neutral, etc).
+To save an analyzed image in Add_activity, click on the floating button at the bottom of the Activity, this will add the images to their respective emotion folder (Happy, Sad, Neutral, etc).
 
 --------------------------------------------------------------------------------------------------------------------------------
